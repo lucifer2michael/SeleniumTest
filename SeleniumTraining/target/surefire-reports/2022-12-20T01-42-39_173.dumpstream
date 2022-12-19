@@ -1,0 +1,18 @@
+# Created at 2022-12-20T01:42:40.679
+Dec 20, 2022 1:42:40 AM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-12-20T01:42:40.679
+WARNING: Possible configuration error: method [public void com.planit.app.AppTest.test002()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-12-20T01:42:40.713
+Dec 20, 2022 1:42:40 AM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2022-12-20T01:42:40.713
+WARNING: Possible configuration error: method [public void com.planit.app.AppTest.test002()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2022-12-20T01:42:42.598
+Dec 20, 2022 1:42:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created at 2022-12-20T01:42:42.599
+INFO: Detected dialect: W3C
+
